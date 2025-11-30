@@ -1,0 +1,1 @@
+// (optional)inheritance prototypical inheritance

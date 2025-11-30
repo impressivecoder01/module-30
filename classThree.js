@@ -1,0 +1,1 @@
+//array map to do one-line loop
